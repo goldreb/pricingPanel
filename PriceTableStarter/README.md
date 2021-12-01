@@ -1,4 +1,4 @@
-# Project Title
+# Pricing Table
 
 - **Title:** Pricing Table
  Learning about CSS Flexbox and @media frame size
